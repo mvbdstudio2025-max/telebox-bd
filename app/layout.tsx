@@ -12,15 +12,15 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://mvbds.xyz"),
 
   title: {
-    default: "MoviesVerseBD Official | mvbds.xyz",
-    template: "%s | MoviesVerseBD",
+    default: "Telebox Official | telebox.mvbds.xyz",
+    template: "%s | Telebox",
   },
 
   description:
-    "MoviesVerseBD Official – Download & Watch HD Movies in Bangla, Hindi, English, Korean & South Indian. Dual Audio 480p, 720p, 1080p | Fast GDrive & Mega Links | Latest Bollywood, Hollywood Movies.",
+    "Telebox Official – Download & Watch HD Movies in Bangla, Hindi, English, Korean & South Indian. Dual Audio 480p, 720p, 1080p | Fast GDrive & Mega Links | Latest Bollywood, Hollywood Movies.",
 
   keywords: [
-    "MoviesVerseBD",
+    "Telebox",
     "MVBD",
     "Bangla Movies Download",
     "Hindi Movies Download",
@@ -32,14 +32,14 @@ export const metadata: Metadata = {
     "Latest Bollywood Movies",
   ],
 
-  applicationName: "MoviesVerseBD",
+  applicationName: "Telebox",
 
   openGraph: {
-    title: "MoviesVerseBD Official | mvbds.xyz",
+    title: "Telebox Official | mvbds.xyz",
     description:
-      "Download Bangla, Hindi, English, Korean & South Indian HD Movies in 480p, 720p, 1080p. Fast Download Links Only on MoviesVerseBD.",
-    url: "https://mvbds.xyz",
-    siteName: "MoviesVerseBD",
+      "Download Bangla, Hindi, English, Korean & South Indian HD Movies in 480p, 720p, 1080p. Fast Download Links Only on Telebox.",
+    url: "https://telebox.mvbds.xyz",
+    siteName: "Telebox",
     type: "website",
   },
 
